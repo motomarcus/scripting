@@ -1,0 +1,12 @@
+<CHATTER><INFO site="http://perlmonks.org" sitename="Perl Monks">
+Rendered by the Chatterbox XML Ticker</INFO>
+	<message author="OeufMayo" time="20010228112952">
+test</message>
+	<message author="deprecated" time="20010228113142">
+pong</message>
+	<message author="OeufMayo" time="20010228113153">
+/me test again; :)</message>
+	<message author="OeufMayo" time="20010228113255">
+&lt;a href="#"&gt;please note the use of HTML 
+tags&lt;/a&gt;</message>
+</CHATTER>

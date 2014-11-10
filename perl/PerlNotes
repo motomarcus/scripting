@@ -1,0 +1,10 @@
+
+String Quotes:
+
+In double quotes \ is treated as the escape char, and variables are taken as their value.
+In single quotes, everything is taken literally except \\ and \'
+
+The following can be used instead of quotes: q/ . . . / and qq/ . . . /
+
+
+
